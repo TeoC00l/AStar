@@ -1,0 +1,2 @@
+C:\Users\Teodor.Tysklind\source\repos\AStar\AStarProject\Intermediate\Build\Win64\UE4Editor\Development\AStarProject\Definitions.AStarProject.h
+C:\Users\Teodor.Tysklind\source\repos\AStar\AStarProject\Source\AStarProject\AStarProject.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AStarProject",
+			"Path": "C:\\Users\\Teodor.Tysklind\\source\\repos\\AStar\\AStarProject\\Source\\AStarProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AStarProjectEditor",
+			"Path": "C:\\Users\\Teodor.Tysklind\\source\\repos\\AStar\\AStarProject\\Source\\AStarProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

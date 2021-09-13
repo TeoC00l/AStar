@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AStarProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{39C93189-FED6-489F-9B26-15236F6B5B2E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AStarProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AStarProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{92B7AC25-0272-4146-B7F9-265351D6820F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AStarProject">
+      <UniqueIdentifier>{6C6B7980-E9FE-4AA9-9898-E311D16B7BA9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AStarProject\AStarProject.Build.cs">
+      <Filter>Source\AStarProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AStarProject\AStarProject.cpp">
+      <Filter>Source\AStarProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AStarProject\AStarProject.h">
+      <Filter>Source\AStarProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AStarProject\AStarProjectGameModeBase.cpp">
+      <Filter>Source\AStarProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AStarProject\AStarProjectGameModeBase.h">
+      <Filter>Source\AStarProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AStarProject\GridActor.cpp">
+      <Filter>Source\AStarProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AStarProject\GridActor.h">
+      <Filter>Source\AStarProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
